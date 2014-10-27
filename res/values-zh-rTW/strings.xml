@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Manifest.xml -->
+    <string name="app_name">藍牙</string>
+    
+    <!-- ActionBar -->
+    <string name="action_bluetooth_switch">藍牙開關</string>
+    <string name="action_bluetooth_on">關閉</string>
+    <string name="action_bluetooth_off">開啓</string>
+    <string name="action_bluetooth_search">搜尋裝置</string>
+    <string name="action_bluetooth_searching">搜尋中…</string>
+    <string name="action_bluetooth_rename">重命名手機</string>
+    <string name="action_bluetooth_timeout">偵測時限設定</string>
+    <string name="action_bluetooth_help">説明</string>
+    
+    <!-- DeviceDetector.java -->
+    <string name="bluetooth_is_not_supported">對不起，您的裝置不支援藍牙！</string>
+    <string name="bluetooth_is_turning_on">藍牙開啓中…</string>
+    <string name="bluetooth_is_turning_off">正在關閉藍牙…</string>
+    <string name="bluetooth_is_off">開啓藍牙功能後，您的裝置即可與其他鄰近的藍牙裝置相互傳輸資料。</string>
+    
+    <!-- device_detectr.xml -->
+    <string name="device_avator"></string>
+    <string name="device_name">Nexus 5</string>
+    <string name="device_is_not_visible">不向其他藍牙裝置顯示</string>
+    <string name="device_is_visible">向附近所有藍牙裝置顯示</string>
+    <string name="device_available">可用的裝置</string>
+    <string name="devices_were_not_found">找不到附近的藍牙裝置。</string>
+    
+</resources>

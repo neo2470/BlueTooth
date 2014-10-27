@@ -1,0 +1,34 @@
+<resources>
+
+    <!-- Manifest.xml -->
+    <string name="app_name">蓝牙</string>
+    
+    <!-- ActionBar -->
+    <string name="action_bluetooth_switch">蓝牙开关</string>
+    <string name="action_bluetooth_on">开启</string>
+    <string name="action_bluetooth_off">关闭</string>
+    <string name="action_bluetooth_search">搜索设备</string>
+    <string name="action_bluetooth_searching">正在搜索…</string>
+    <string name="action_bluetooth_rename">重命名手机</string>
+    <string name="action_bluetooth_timeout">检测超时设置</string>
+    <string name="action_bluetooth_help">帮助</string>
+    
+    <!-- DeviceDetector.java -->
+    <string name="bluetooth_is_not_supported">对不起，您的设备不支持蓝牙！</string>
+    <string name="bluetooth_is_turning_on">正在打开蓝牙…</string>
+    <string name="bluetooth_is_turning_off">正在关闭蓝牙…</string>
+    <string name="bluetooth_is_off">开启蓝牙后，您的设备可以与附近的其他蓝牙设备通信。</string>
+    
+    <!-- device_detectr.xml -->
+    <string name="device_avator"></string>
+    <string name="device_name">Nexus 5</string>
+    <string name="device_is_not_visible">其他蓝牙设备检测不到此设备</string>
+    <string name="device_is_visible">附近所有蓝牙设备均可检测到此设备</string>
+    <string name="device_available">可用设备</string>
+    <string name="devices_were_not_found">未在附近找到蓝牙设备。</string>
+    
+    <string name="group_my_devices">我的设备</string>
+    <string name="group_paired_devices">已配对的设备</string>
+    <string name="group_available_devices">可用设备</string>
+    
+</resources>

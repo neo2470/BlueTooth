@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:whatever="http://schemas.android.com/apk/res-auto" >
+    
+    <item
+        android:id="@+id/bluetoothSearch"
+        android:title="@string/action_bluetooth_search"
+        whatever:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/bluetoothRename"
+        android:title="@string/action_bluetooth_rename"
+        whatever:showAsAction="never" />
+    <item
+        android:id="@+id/bluetoothTimeout"
+        android:title="@string/action_bluetooth_timeout"
+        whatever:showAsAction="never" />
+    <item
+        android:id="@+id/bluetoothHelp"
+        android:title="@string/action_bluetooth_help"
+        whatever:showAsAction="never" />
+    
+</menu>

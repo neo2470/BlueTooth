@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <dimen name="group_pading_left">30dp</dimen>
+    <dimen name="group_pading_right">10dp</dimen>
+    
+</resources>
